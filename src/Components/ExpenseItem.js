@@ -1,7 +1,9 @@
 function ExpenseItem(){
     return (
         <div>
-            first custom component
+           <div>car</div>
+           <h2>date</h2>
+           <div>$296</div>
         </div>
     );
 }
